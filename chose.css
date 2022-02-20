@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Open+Sans+Condensed:wght@300&family=Redressed&display=swap');
+
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    color: azure;
+    font-family: 'Cabin', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2,p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: azure;
+    font-size: 35px;
+    margin-bottom: 0%;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+a{
+    color: aqua;
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+
+#flex{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.foods{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

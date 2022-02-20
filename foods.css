@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    color: azure;
+    font-family: 'Cabin', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    font-family: 'Lobster', cursive;
+    color: azure;
+    font-size: 35px;
+    margin-bottom: 0%;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+a{
+    color: aqua;
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
